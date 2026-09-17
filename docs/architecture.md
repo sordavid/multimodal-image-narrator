@@ -15,17 +15,6 @@ flowchart LR
     M --> N[WAV File]
 ```
 
-multimodal-image-narrator/
-├── main.py
-├── multimodal_image_narrator/
-│   ├── __init__.py
-│   ├── vision.py
-│   └── speech.py
-├── outputs/
-├── requirements.txt
-├── README.md
-└── .gitignore
-
 Component Responsibilities
 main.py
 The application entry point and orchestration layer.
