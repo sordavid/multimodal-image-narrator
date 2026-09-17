@@ -110,3 +110,8 @@ multimodal-image-narrator/
 ## License
 
 No license has been selected yet.
+
+
+## Architecture
+
+See the [architecture documentation](docs/architecture.md) for the project structure, model pipeline, component responsibilities, and data flow.
